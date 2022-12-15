@@ -1,0 +1,29 @@
+﻿生成启动时间为 2022/12/15 13:43:45。
+     1>项目“E:\Programming\My_Cpp_File\MacDock\MacDock\MacDock.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MacDock.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MacDock.cpp
+         MacDock.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Programming\My_Cpp_File\MacDock\Debug\MacDock.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MacDock.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Programming\My_Cpp_File\MacDock\Debug\MacDock.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Programming\My_Cpp_File\MacDock\Debug\MacDock.lib" /MACHINE:X86 Debug\MacDock.res
+         Debug\MacDock.exe.embed.manifest.res
+         Debug\MacDock.obj
+       Manifest:
+         E:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MacDock.exe.embed.manifest" /manifest Debug\MacDock.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MacDock.vcxproj -> E:\Programming\My_Cpp_File\MacDock\Debug\MacDock.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MacDock.unsuccessfulbuild”。
+         正在对“Debug\MacDock.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Programming\My_Cpp_File\MacDock\MacDock\MacDock.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.23
